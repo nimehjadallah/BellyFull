@@ -1,0 +1,28 @@
+.inform {
+    margin-left: 100px;
+    margin-right: 100px;
+    /* width: 75em; */
+    margin-bottom: 80px;  
+}
+
+.homeHeader{ 
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+.subHeader{
+    margin-left: 60px;
+    margin-bottom: 20px;
+}
+
+.lastHeader{
+    margin-left: 100px;
+}
+
+.getStarted{
+    margin-left: 100px;
+}

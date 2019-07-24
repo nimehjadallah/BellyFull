@@ -1,0 +1,42 @@
+.stats{
+    margin: 40px 40px 40px 20px;
+    max-width: 600px;
+    box-shadow: 10px 10px 5px grey;
+    border-radius: 15px 50px;
+}
+
+.VAStats{
+    font-weight: bold;
+    color: rgb(185 49 79);
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+
+.moneyNeeded{
+    font-weight: bold;
+    font-size: 36px;
+    color: rgb(185 49 79);
+}
+
+.firstIcon{
+    color: rgb(185 49 79);
+}
+
+
+.vl{
+    border-left: 3px solid rgb(37 89 87);
+    height: 100px;
+}
+
+hr{
+    border: 2px solid rgb(37 89 87);
+    margin-top: 0px;
+}
+
+.study{
+    color: rgb(185 49 79);
+}
+
+
+

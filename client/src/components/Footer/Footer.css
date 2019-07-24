@@ -1,0 +1,25 @@
+#footer {
+    background-color: #437c90;
+    border-top: 4px solid #0e3b43;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    color: #d0cfcf;
+}
+
+.icons > a {
+    color: inherit;
+}
+
+.icons > a:hover {
+   color: #b9314f; 
+}
+
+.copyright {
+    padding-top: 10px;
+}
+
+.icons{
+    margin-top:10px;
+}

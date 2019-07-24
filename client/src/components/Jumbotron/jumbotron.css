@@ -1,0 +1,35 @@
+.jumbo {
+    background-image: linear-gradient(
+      rgba(0, 0, 0, 0.3),
+      rgba(0, 0, 0, 0.4)
+    ),url("../../images/richmond.png");
+    background-size: cover;
+    background-position: center center;
+    height: 500px;
+    border-bottom: 4px solid #0e3b43;
+}
+
+.display-4 {
+    margin-top: 150px;
+    color: #d0cfcf;
+    font-size: 85px;
+}
+
+.welcomeHeader {
+  color: #d0cfcf;
+  margin-top: 10px;
+  font-size: 95px;
+  padding-bottom: 6px;
+}
+
+.secondHeader {
+  padding-bottom: 10px;
+}
+.secondHeader, .welcomeMsg {
+  color: #d0cfcf;
+  font-weight: bold;
+}
+
+.welcomeMsg {
+  font-size: 22px;
+}

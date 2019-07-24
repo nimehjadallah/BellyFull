@@ -1,0 +1,49 @@
+
+ .navbar{
+background-color: rgb(67 124 144);
+color: rgb(208 207 207);
+border-bottom: 4px solid #0e3b43;
+}
+
+ ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+   
+
+}
+
+li {
+    float: left;
+    position: relative;
+    
+}
+
+.divider {
+    position: absolute;
+    right:-1px;
+    top:2px;
+} 
+
+.navbar-brand{
+     display: block; 
+    width: 120px;
+    font-weight: bold;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: rgb(208 207 207);
+}
+
+a:hover{
+    color: rgb(185 49 79);
+}
+
+
+img{
+    height: 70px;
+    margin-left: 20px;
+}
+

@@ -1,0 +1,14 @@
+.signIn {
+    margin-right: 20px;
+}
+
+.loginBtns {
+    height: 50px;
+    width: 100px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.loginBtns:focus {
+    box-shadow: none;
+}
